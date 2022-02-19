@@ -1,0 +1,14 @@
+[[shards]]
+name = "shard1"
+index = 0
+address = "localhost:8080"
+
+[[shards]]
+name = "shard2"
+index = 1
+address = "localhost:8081"
+
+[[shards]]
+name = "shard3"
+index = 2
+address = "localhost:8082"
